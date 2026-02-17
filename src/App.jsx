@@ -3,7 +3,7 @@ import Navbar from './components/Navbar'
 import ProductList from './Pages/ProductList'
 import Cart from './Pages/Cart'
 import Checkout from './Pages/Checkout'
-import ProductDetail from './Pages/productDetail'
+import ProductDetail from './Pages/ProductDetail'
 import Footer from './components/Footer'
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
